@@ -1,0 +1,12 @@
+# Development stuff
+.venv
+.vscode
+db.sqlite3
+
+# GIT
+.gitignore
+PULL_REQUEST_TEMPLATE
+README.md
+
+# Environment variables are to be kept secret
+.env
